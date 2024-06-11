@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil
 
-<!--
-**Ot4vii0/Ot4vii0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Otavio
 
-Here are some ideas to get you started:
+- Estou estudando na alura (https://ww.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Voce Pode entrar em contato comigo⚡
+
+- Otavio@gmail.com
+
+- @Otavio
+
+
+![image](https://github.com/Ot4vii0/Ot4vii0/assets/170647850/823228ef-f778-48e7-9995-3034bd780288)
+
